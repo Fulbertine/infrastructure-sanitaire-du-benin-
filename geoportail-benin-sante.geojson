@@ -1,0 +1,3796 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centre national hospitalier universitaire Hubert Koutougou Maga",
+        "type": "Centre Hospitalier National",
+        "nature": "PUBLIC",
+        "commune": "Cotonou",
+        "departement": "LITTORAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4108,
+          6.355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CNHU-PPC",
+        "type": "Centre Hospitalier National",
+        "nature": "PUBLIC",
+        "commune": "Cotonou",
+        "departement": "LITTORAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4416,
+          6.3654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CHD de l'Ouémé",
+        "type": "Centre Hospitalier Départemental",
+        "nature": "PUBLIC",
+        "commune": "Porto-Novo",
+        "departement": "OUEME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.627,
+          6.4969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CHD du Zou",
+        "type": "Centre Hospitalier Départemental",
+        "nature": "PUBLIC",
+        "commune": "Abomey",
+        "departement": "ZOU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0829,
+          7.1852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CHD du Borgou",
+        "type": "Centre Hospitalier Départemental",
+        "nature": "PUBLIC",
+        "commune": "Parakou",
+        "departement": "BORGOU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6167,
+          9.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CHD de l'Atlantique",
+        "type": "Centre Hospitalier Départemental",
+        "nature": "PUBLIC",
+        "commune": "Allada",
+        "departement": "ATLANTIQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15,
+          6.4667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CHD du Mono",
+        "type": "Centre Hospitalier Départemental",
+        "nature": "PUBLIC",
+        "commune": "Lokossa",
+        "departement": "MONO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7139,
+          6.6375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CHD de l'Atacora",
+        "type": "Centre Hospitalier Départemental",
+        "nature": "PUBLIC",
+        "commune": "Natitingou",
+        "departement": "ATACORA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3833,
+          10.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CHD de l'Alibori",
+        "type": "Centre Hospitalier Départemental",
+        "nature": "PUBLIC",
+        "commune": "Kandi",
+        "departement": "ALIBORI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9333,
+          11.1333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CHD du Plateau",
+        "type": "Centre Hospitalier Départemental",
+        "nature": "PUBLIC",
+        "commune": "Pobè",
+        "departement": "PLATEAU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6833,
+          6.9833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hôpital des Armées",
+        "type": "Hôpital de Zone",
+        "nature": "PUBLIC",
+        "commune": "Cotonou",
+        "departement": "LITTORAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4149,
+          6.3557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HZ Suru-Léré",
+        "type": "Hôpital de Zone",
+        "nature": "PUBLIC",
+        "commune": "Cotonou",
+        "departement": "LITTORAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4629,
+          6.3818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HZ Ouidah-Kpomassè-Tori",
+        "type": "Hôpital de Zone",
+        "nature": "PUBLIC",
+        "commune": "Ouidah",
+        "departement": "ATLANTIQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0661,
+          6.3827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HZ Comè, Houéyogbé, Grand-Popo et Bopa",
+        "type": "Hôpital de Zone",
+        "nature": "PUBLIC",
+        "commune": "Comè",
+        "departement": "MONO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8888,
+          6.4121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint-Jean",
+        "type": "Hôpital de Zone",
+        "nature": "PRIVE",
+        "commune": "Cotonou",
+        "departement": "LITTORAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4142,
+          6.3639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anastasis",
+        "type": "Hôpital de Zone",
+        "nature": "PRIVE",
+        "commune": "Cotonou",
+        "departement": "LITTORAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3575,
+          6.3752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bethesda",
+        "type": "Hôpital de Zone",
+        "nature": "PRIVE",
+        "commune": "Cotonou",
+        "departement": "LITTORAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4147,
+          6.3795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint-Luc",
+        "type": "Hôpital de Zone",
+        "nature": "PRIVE",
+        "commune": "Cotonou",
+        "departement": "LITTORAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4033,
+          6.3842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hôpital de Mènontin",
+        "type": "Hôpital de Zone",
+        "nature": "PRIVE",
+        "commune": "Cotonou",
+        "departement": "LITTORAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3653,
+          6.3903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HZ Parakou",
+        "type": "Hôpital de Zone",
+        "nature": "PUBLIC",
+        "commune": "Parakou",
+        "departement": "BORGOU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6167,
+          9.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HZ Abomey",
+        "type": "Hôpital de Zone",
+        "nature": "PUBLIC",
+        "commune": "Abomey",
+        "departement": "ZOU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0829,
+          7.1852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HZ Lokossa",
+        "type": "Hôpital de Zone",
+        "nature": "PUBLIC",
+        "commune": "Lokossa",
+        "departement": "MONO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7139,
+          6.6375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HZ Natitingou",
+        "type": "Hôpital de Zone",
+        "nature": "PUBLIC",
+        "commune": "Natitingou",
+        "departement": "ATACORA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3833,
+          10.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HZ Kandi",
+        "type": "Hôpital de Zone",
+        "nature": "PUBLIC",
+        "commune": "Kandi",
+        "departement": "ALIBORI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9333,
+          11.1333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HZ Malanville",
+        "type": "Hôpital de Zone",
+        "nature": "PUBLIC",
+        "commune": "Malanville",
+        "departement": "ALIBORI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3833,
+          11.8667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HZ Djougou",
+        "type": "Hôpital de Zone",
+        "nature": "PUBLIC",
+        "commune": "Djougou",
+        "departement": "DONGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6667,
+          9.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HZ Savalou",
+        "type": "Hôpital de Zone",
+        "nature": "PUBLIC",
+        "commune": "Savalou",
+        "departement": "COLLINES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9667,
+          7.9167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HZ Dassa",
+        "type": "Hôpital de Zone",
+        "nature": "PUBLIC",
+        "commune": "Dassa-Zoumè",
+        "departement": "COLLINES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1833,
+          7.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HZ Sakété",
+        "type": "Hôpital de Zone",
+        "nature": "PUBLIC",
+        "commune": "Sakété",
+        "departement": "PLATEAU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.65,
+          6.7333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HZ Aplahoué",
+        "type": "Hôpital de Zone",
+        "nature": "PUBLIC",
+        "commune": "Aplahoué",
+        "departement": "COUFFO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6833,
+          7.0333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HZ Pobè",
+        "type": "Hôpital de Zone",
+        "nature": "PUBLIC",
+        "commune": "Pobè",
+        "departement": "PLATEAU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6833,
+          6.9833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HZ Kétou",
+        "type": "Hôpital de Zone",
+        "nature": "PUBLIC",
+        "commune": "Kétou",
+        "departement": "PLATEAU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6,
+          7.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HZ Bohicon",
+        "type": "Hôpital de Zone",
+        "nature": "PUBLIC",
+        "commune": "Bohicon",
+        "departement": "ZOU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0667,
+          7.1833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HZ Savè",
+        "type": "Hôpital de Zone",
+        "nature": "PUBLIC",
+        "commune": "Savè",
+        "departement": "COLLINES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4667,
+          8.3333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HZ Bantè",
+        "type": "Hôpital de Zone",
+        "nature": "PUBLIC",
+        "commune": "Bantè",
+        "departement": "COLLINES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8333,
+          8.4167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HZ Glazoué",
+        "type": "Hôpital de Zone",
+        "nature": "PUBLIC",
+        "commune": "Glazoué",
+        "departement": "COLLINES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0833,
+          8.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HZ Tchaourou",
+        "type": "Hôpital de Zone",
+        "nature": "PUBLIC",
+        "commune": "Tchaourou",
+        "departement": "BORGOU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5833,
+          8.8833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HZ N'Dali",
+        "type": "Hôpital de Zone",
+        "nature": "PUBLIC",
+        "commune": "N'Dali",
+        "departement": "BORGOU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7,
+          9.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HZ Bembèrèkè",
+        "type": "Hôpital de Zone",
+        "nature": "PUBLIC",
+        "commune": "Bembèrèkè",
+        "departement": "BORGOU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6667,
+          10.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HZ Nikki",
+        "type": "Hôpital de Zone",
+        "nature": "PUBLIC",
+        "commune": "Nikki",
+        "departement": "BORGOU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2,
+          9.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HZ Péhunco",
+        "type": "Hôpital de Zone",
+        "nature": "PUBLIC",
+        "commune": "Péhunco",
+        "departement": "ATACORA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9667,
+          10.2333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HZ Kérou",
+        "type": "Hôpital de Zone",
+        "nature": "PUBLIC",
+        "commune": "Kérou",
+        "departement": "ATACORA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.45,
+          10.5333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HZ Tanguiéta",
+        "type": "Hôpital de Zone",
+        "nature": "PUBLIC",
+        "commune": "Tanguiéta",
+        "departement": "ATACORA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2667,
+          10.6167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HZ Boukoumbé",
+        "type": "Hôpital de Zone",
+        "nature": "PUBLIC",
+        "commune": "Boukoumbé",
+        "departement": "ATACORA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1,
+          10.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HZ Cobly",
+        "type": "Hôpital de Zone",
+        "nature": "PUBLIC",
+        "commune": "Cobly",
+        "departement": "ATACORA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1667,
+          10.0833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HZ Ouaké",
+        "type": "Hôpital de Zone",
+        "nature": "PUBLIC",
+        "commune": "Ouaké",
+        "departement": "DONGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.45,
+          9.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HZ Copargo",
+        "type": "Hôpital de Zone",
+        "nature": "PUBLIC",
+        "commune": "Copargo",
+        "departement": "DONGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5333,
+          9.8333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HZ Bassila",
+        "type": "Hôpital de Zone",
+        "nature": "PUBLIC",
+        "commune": "Bassila",
+        "departement": "DONGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6667,
+          9.0167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CSA de Grand-Popo",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Grand-Popo",
+        "departement": "MONO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8092,
+          6.279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Djègbadji",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Ouidah",
+        "departement": "ATLANTIQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0862,
+          6.3231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Cadjehoun",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Cotonou",
+        "departement": "LITTORAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3988,
+          6.3574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Placodji",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Cotonou",
+        "departement": "LITTORAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.438,
+          6.3598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Saint Michel",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Cotonou",
+        "departement": "LITTORAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4263,
+          6.3682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Misséssin",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Cotonou",
+        "departement": "LITTORAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4472,
+          6.371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Agla",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Cotonou",
+        "departement": "LITTORAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3641,
+          6.3829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Zogbo",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Cotonou",
+        "departement": "LITTORAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3898,
+          6.3927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Avotrou",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Cotonou",
+        "departement": "LITTORAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4725,
+          6.3865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Ahouansori",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Cotonou",
+        "departement": "LITTORAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4219,
+          6.3858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Cotonou 4",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Cotonou",
+        "departement": "LITTORAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4251,
+          6.3809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Cotonou 6",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Cotonou",
+        "departement": "LITTORAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4108,
+          6.3644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Gankpodo",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Cotonou",
+        "departement": "LITTORAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4545,
+          6.3903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CSA de Godomey",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Abomey-Calavi",
+        "departement": "ATLANTIQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3458,
+          6.3897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS de Maria-Gléta",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Abomey-Calavi",
+        "departement": "ATLANTIQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3018,
+          6.4277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS communautaire de Hêvié",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Abomey-Calavi",
+        "departement": "ATLANTIQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2683,
+          6.4049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CSA de Womey",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Abomey-Calavi",
+        "departement": "ATLANTIQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2996,
+          6.411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Hiô",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Abomey-Calavi",
+        "departement": "ATLANTIQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2484,
+          6.345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Adounkô",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Abomey-Calavi",
+        "departement": "ATLANTIQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2773,
+          6.3601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS de Dèkoungbé",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Abomey-Calavi",
+        "departement": "ATLANTIQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3226,
+          6.3735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Pahou",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Ouidah",
+        "departement": "ATLANTIQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2088,
+          6.3802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Houndjava",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Ouidah",
+        "departement": "ATLANTIQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1881,
+          6.3702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Ouidah 3",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Ouidah",
+        "departement": "ATLANTIQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0897,
+          6.3735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Savi",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Ouidah",
+        "departement": "ATLANTIQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1023,
+          6.4231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Gakpé",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Ouidah",
+        "departement": "ATLANTIQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1401,
+          6.4245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Kindji",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Ouidah",
+        "departement": "ATLANTIQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0858,
+          6.3569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Houakpè-Daho",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Ouidah",
+        "departement": "ATLANTIQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0399,
+          6.3338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Dégouè",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Ouidah",
+        "departement": "ATLANTIQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0589,
+          6.3276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Avlékété",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Ouidah",
+        "departement": "ATLANTIQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2062,
+          6.3458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Sèmè-Podji",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Sèmè-Podji",
+        "departement": "OUEME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6021,
+          6.3816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Kraké",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Sèmè-Podji",
+        "departement": "OUEME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.678,
+          6.3854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Kétonou",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Sèmè-Podji",
+        "departement": "OUEME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5567,
+          6.4231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CSA Èkpè",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Sèmè-Podji",
+        "departement": "OUEME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5414,
+          6.3867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CSA Tohouè",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Sèmè-Podji",
+        "departement": "OUEME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6616,
+          6.4297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CSA Agonkanmè",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Kpomassè",
+        "departement": "ATLANTIQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0045,
+          6.3877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CSA Sègbohouè",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Kpomassè",
+        "departement": "ATLANTIQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9628,
+          6.4074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS de Dohi",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Comè",
+        "departement": "MONO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9387,
+          6.3807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CSA Agatogbo",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Comè",
+        "departement": "MONO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9248,
+          6.3988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Gadomé",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Comè",
+        "departement": "MONO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.908,
+          6.402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Kpétou",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Comè",
+        "departement": "MONO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9146,
+          6.4263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CSA Djanglanmè",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Grand-Popo",
+        "departement": "MONO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8129,
+          6.4125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS de Kpatcha-Condji",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Grand-Popo",
+        "departement": "MONO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7908,
+          6.4242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS de Vodomey",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Grand-Popo",
+        "departement": "MONO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7805,
+          6.4278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Abomey-Calavi",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Abomey-Calavi",
+        "departement": "ATLANTIQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35,
+          6.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Allada",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Allada",
+        "departement": "ATLANTIQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15,
+          6.6667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Toffo",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Toffo",
+        "departement": "ATLANTIQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0833,
+          6.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Tori-Bossito",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Tori-Bossito",
+        "departement": "ATLANTIQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2167,
+          6.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Ze",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Zè",
+        "departement": "ATLANTIQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4,
+          6.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Adjara",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Adjara",
+        "departement": "OUEME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7,
+          6.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Akpro-Missérété",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Akpro-Missérété",
+        "departement": "OUEME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5833,
+          6.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Avrankou",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Avrankou",
+        "departement": "OUEME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.65,
+          6.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Aguegues",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Aguégués",
+        "departement": "OUEME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.55,
+          6.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Dangbo",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Dangbo",
+        "departement": "OUEME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4833,
+          6.5167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Bonou",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Bonou",
+        "departement": "OUEME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4333,
+          6.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Adja-Ouere",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Adja-Ouèrè",
+        "departement": "PLATEAU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6833,
+          6.9333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Ifangni",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Ifangni",
+        "departement": "PLATEAU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7,
+          6.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Kétou",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Kétou",
+        "departement": "PLATEAU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6,
+          7.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Pobe",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Pobè",
+        "departement": "PLATEAU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6833,
+          6.9833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Sakete",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Sakété",
+        "departement": "PLATEAU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.65,
+          6.7333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Za-Kpota",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Za-Kpota",
+        "departement": "ZOU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0667,
+          7.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Bohicon",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Bohicon",
+        "departement": "ZOU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0667,
+          7.1833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Zogbodomey",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Zogbodomey",
+        "departement": "ZOU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.05,
+          7.0833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Agbangnizoun",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Agbangnizoun",
+        "departement": "ZOU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0167,
+          7.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Djidja",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Djidja",
+        "departement": "ZOU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9,
+          7.2667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Ouenou",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Ouèssè",
+        "departement": "COLLINES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4167,
+          8.2833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Bante",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Bantè",
+        "departement": "COLLINES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8333,
+          8.4167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Glazoue",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Glazoué",
+        "departement": "COLLINES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0833,
+          8.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Dassa",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Dassa-Zoumè",
+        "departement": "COLLINES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1833,
+          7.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Save",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Savè",
+        "departement": "COLLINES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4667,
+          8.3333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Tchaourou",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Tchaourou",
+        "departement": "BORGOU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5833,
+          8.8833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Ndali",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "N'Dali",
+        "departement": "BORGOU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7,
+          9.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Perere",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Pèrèrè",
+        "departement": "BORGOU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.75,
+          9.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Sinende",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Sinendé",
+        "departement": "BORGOU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.85,
+          10.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Bembereke",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Bembèrèkè",
+        "departement": "BORGOU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6667,
+          10.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Kalale",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Kalalé",
+        "departement": "BORGOU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3667,
+          10.2833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Nikki",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Nikki",
+        "departement": "BORGOU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2,
+          9.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS N'Dali",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "N'Dali",
+        "departement": "BORGOU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7,
+          9.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Parakou",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Parakou",
+        "departement": "BORGOU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6167,
+          9.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Tchaourou",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Tchaourou",
+        "departement": "BORGOU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5833,
+          8.8833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Djougou",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Djougou",
+        "departement": "DONGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6667,
+          9.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Bassila",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Bassila",
+        "departement": "DONGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6667,
+          9.0167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Copargo",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Copargo",
+        "departement": "DONGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5333,
+          9.8333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Ouake",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Ouaké",
+        "departement": "DONGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.45,
+          9.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Natitingou",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Natitingou",
+        "departement": "ATACORA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3833,
+          10.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Tanguieta",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Tanguiéta",
+        "departement": "ATACORA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2667,
+          10.6167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Boukoumbe",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Boukoumbé",
+        "departement": "ATACORA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1,
+          10.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Kerou",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Kérou",
+        "departement": "ATACORA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.45,
+          10.5333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Pehunco",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Péhunco",
+        "departement": "ATACORA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9667,
+          10.2333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Cobly",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Cobly",
+        "departement": "ATACORA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1667,
+          10.0833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Materi",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Matéri",
+        "departement": "ATACORA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0833,
+          10.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Toucountouna",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Toucountouna",
+        "departement": "ATACORA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2,
+          10.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Kouande",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Kouandé",
+        "departement": "ATACORA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6833,
+          10.3167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Kandi",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Kandi",
+        "departement": "ALIBORI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9333,
+          11.1333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Malanville",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Malanville",
+        "departement": "ALIBORI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3833,
+          11.8667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Segbana",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Ségbana",
+        "departement": "ALIBORI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1333,
+          11.2667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Gogounou",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Gogounou",
+        "departement": "ALIBORI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0333,
+          10.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Banikoara",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Banikoara",
+        "departement": "ALIBORI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4333,
+          10.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Karimama",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Karimama",
+        "departement": "ALIBORI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2667,
+          11.9167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Aplahoue",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Aplahoué",
+        "departement": "COUFFO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6833,
+          7.0333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Djakotomey",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Djakotomey",
+        "departement": "COUFFO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8,
+          7.0167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Klouekanme",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Klouékanmè",
+        "departement": "COUFFO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.75,
+          6.9333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Lalo",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Lalo",
+        "departement": "COUFFO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.85,
+          6.9167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Toviklin",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Toviklin",
+        "departement": "COUFFO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7833,
+          6.8833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Bopa",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Bopa",
+        "departement": "MONO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9333,
+          6.5833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Houeyogbe",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Houéyogbé",
+        "departement": "MONO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8667,
+          6.5167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Lokossa",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Lokossa",
+        "departement": "MONO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7139,
+          6.6375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Athieme",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Athiémé",
+        "departement": "MONO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6667,
+          6.5667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CS Dogbo",
+        "type": "Centre de Santé",
+        "nature": "PUBLIC",
+        "commune": "Dogbo",
+        "departement": "MONO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7833,
+          6.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maternité de Hilla Condji",
+        "type": "Maternité",
+        "nature": "PUBLIC",
+        "commune": "Grand-Popo",
+        "departement": "MONO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6372,
+          6.2394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maternité de Missihoun Condji",
+        "type": "Maternité",
+        "nature": "PUBLIC",
+        "commune": "Grand-Popo",
+        "departement": "MONO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7132,
+          6.2562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maternité de Agonnèkanmey",
+        "type": "Maternité",
+        "nature": "PUBLIC",
+        "commune": "Grand-Popo",
+        "departement": "MONO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8657,
+          6.286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maternité de Gonko",
+        "type": "Maternité",
+        "nature": "PUBLIC",
+        "commune": "Grand-Popo",
+        "departement": "MONO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9665,
+          6.3041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maternité d'Akogbato",
+        "type": "Maternité",
+        "nature": "PUBLIC",
+        "commune": "Abomey-Calavi",
+        "departement": "ATLANTIQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3471,
+          6.3595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hôpital de la mère et de l'enfant lagune",
+        "type": "Maternité",
+        "nature": "PUBLIC",
+        "commune": "Cotonou",
+        "departement": "LITTORAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4386,
+          6.3611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maternité d'Akato",
+        "type": "Maternité",
+        "nature": "PUBLIC",
+        "commune": "Cotonou",
+        "departement": "LITTORAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.42,
+          6.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maternité isolée de Ouidah 2",
+        "type": "Maternité",
+        "nature": "PUBLIC",
+        "commune": "Ouidah",
+        "departement": "ATLANTIQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0747,
+          6.3759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maternité de Comè",
+        "type": "Maternité",
+        "nature": "PUBLIC",
+        "commune": "Comè",
+        "departement": "MONO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8835,
+          6.4038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maternité de Porto-Novo",
+        "type": "Maternité",
+        "nature": "PUBLIC",
+        "commune": "Porto-Novo",
+        "departement": "OUEME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.627,
+          6.4969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maternité de Parakou",
+        "type": "Maternité",
+        "nature": "PUBLIC",
+        "commune": "Parakou",
+        "departement": "BORGOU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6167,
+          9.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maternité de Abomey",
+        "type": "Maternité",
+        "nature": "PUBLIC",
+        "commune": "Abomey",
+        "departement": "ZOU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0829,
+          7.1852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maternité de Natitingou",
+        "type": "Maternité",
+        "nature": "PUBLIC",
+        "commune": "Natitingou",
+        "departement": "ATACORA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3833,
+          10.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maternité de Kandi",
+        "type": "Maternité",
+        "nature": "PUBLIC",
+        "commune": "Kandi",
+        "departement": "ALIBORI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9333,
+          11.1333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maternité de Lokossa",
+        "type": "Maternité",
+        "nature": "PUBLIC",
+        "commune": "Lokossa",
+        "departement": "MONO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7139,
+          6.6375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clinique Mahouna",
+        "type": "Clinique",
+        "nature": "PRIVE",
+        "commune": "Cotonou",
+        "departement": "LITTORAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.402,
+          6.3559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Serena",
+        "type": "Clinique",
+        "nature": "PRIVE",
+        "commune": "Cotonou",
+        "departement": "LITTORAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3655,
+          6.3565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Polyclinique Esperanza",
+        "type": "Clinique",
+        "nature": "PRIVE",
+        "commune": "Cotonou",
+        "departement": "LITTORAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.347,
+          6.358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clinique du coeur Saint-Raphaël",
+        "type": "Clinique",
+        "nature": "PRIVE",
+        "commune": "Cotonou",
+        "departement": "LITTORAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3723,
+          6.3582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Padré Pio",
+        "type": "Clinique",
+        "nature": "PRIVE",
+        "commune": "Cotonou",
+        "departement": "LITTORAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4454,
+          6.3596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clinique centrale",
+        "type": "Clinique",
+        "nature": "PRIVE",
+        "commune": "Cotonou",
+        "departement": "LITTORAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4214,
+          6.3625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clinique Les grâces",
+        "type": "Clinique",
+        "nature": "PRIVE",
+        "commune": "Cotonou",
+        "departement": "LITTORAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4205,
+          6.3646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clinique Houéyiho",
+        "type": "Clinique",
+        "nature": "PRIVE",
+        "commune": "Cotonou",
+        "departement": "LITTORAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3911,
+          6.3668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clinique Boni d'Akpakpa",
+        "type": "Clinique",
+        "nature": "PRIVE",
+        "commune": "Cotonou",
+        "departement": "LITTORAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4526,
+          6.3655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clinique de l'union",
+        "type": "Clinique",
+        "nature": "PRIVE",
+        "commune": "Cotonou",
+        "departement": "LITTORAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3989,
+          6.369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clinique Point E",
+        "type": "Clinique",
+        "nature": "PRIVE",
+        "commune": "Cotonou",
+        "departement": "LITTORAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4199,
+          6.3868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clinique La Marina",
+        "type": "Clinique",
+        "nature": "PRIVE",
+        "commune": "Cotonou",
+        "departement": "LITTORAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3924,
+          6.3782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clinique Dahin",
+        "type": "Clinique",
+        "nature": "PRIVE",
+        "commune": "Cotonou",
+        "departement": "LITTORAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3812,
+          6.377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vie abondante",
+        "type": "Clinique",
+        "nature": "PRIVE",
+        "commune": "Cotonou",
+        "departement": "LITTORAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3533,
+          6.3691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "O'Cless",
+        "type": "Clinique",
+        "nature": "PRIVE",
+        "commune": "Cotonou",
+        "departement": "LITTORAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4035,
+          6.3691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Polyclinique Saint-Pierre",
+        "type": "Clinique",
+        "nature": "PRIVE",
+        "commune": "Cotonou",
+        "departement": "LITTORAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3635,
+          6.3799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clinique Safari",
+        "type": "Clinique",
+        "nature": "PRIVE",
+        "commune": "Cotonou",
+        "departement": "LITTORAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3851,
+          6.3857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clinique Siloé",
+        "type": "Clinique",
+        "nature": "PRIVE",
+        "commune": "Abomey-Calavi",
+        "departement": "ATLANTIQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.236,
+          6.3869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clinique Biosso",
+        "type": "Clinique",
+        "nature": "PRIVE",
+        "commune": "Abomey-Calavi",
+        "departement": "ATLANTIQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3422,
+          6.3909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clinique Ajavon",
+        "type": "Clinique",
+        "nature": "PRIVE",
+        "commune": "Sèmè-Podji",
+        "departement": "OUEME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4848,
+          6.3775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clinique la Grâce Divine",
+        "type": "Clinique",
+        "nature": "PRIVE",
+        "commune": "Ouidah",
+        "departement": "ATLANTIQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0763,
+          6.3771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clinique d'accouchement beaux bébés",
+        "type": "Clinique",
+        "nature": "PRIVE",
+        "commune": "Ouidah",
+        "departement": "ATLANTIQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1075,
+          6.3588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clinique Saint-Antoine de Padoue",
+        "type": "Clinique",
+        "nature": "PRIVE",
+        "commune": "Grand-Popo",
+        "departement": "MONO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7738,
+          6.2692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La rédemption",
+        "type": "Clinique",
+        "nature": "PRIVE",
+        "commune": "Sèmè-Podji",
+        "departement": "OUEME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6208,
+          6.3792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La santé pour tous",
+        "type": "Clinique",
+        "nature": "PRIVE",
+        "commune": "Sèmè-Podji",
+        "departement": "OUEME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5839,
+          6.3793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Grâce de Dieu",
+        "type": "Clinique",
+        "nature": "PRIVE",
+        "commune": "Sèmè-Podji",
+        "departement": "OUEME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6137,
+          6.3842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint-Michel",
+        "type": "Clinique",
+        "nature": "PRIVE",
+        "commune": "Sèmè-Podji",
+        "departement": "OUEME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6283,
+          6.4262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sainte-Thérèse",
+        "type": "Clinique",
+        "nature": "PRIVE",
+        "commune": "Sèmè-Podji",
+        "departement": "OUEME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6002,
+          6.4301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La vie nouvelle",
+        "type": "Clinique",
+        "nature": "PRIVE",
+        "commune": "Sèmè-Podji",
+        "departement": "OUEME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6187,
+          6.4335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New fife",
+        "type": "Clinique",
+        "nature": "PRIVE",
+        "commune": "Sèmè-Podji",
+        "departement": "OUEME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6983,
+          6.4248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ayidjèdo",
+        "type": "Clinique",
+        "nature": "PRIVE",
+        "commune": "Sèmè-Podji",
+        "departement": "OUEME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.699,
+          6.3859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint-Lambert",
+        "type": "Clinique",
+        "nature": "PRIVE",
+        "commune": "Sèmè-Podji",
+        "departement": "OUEME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5923,
+          6.395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ONG les Merveilles",
+        "type": "Clinique",
+        "nature": "PRIVE",
+        "commune": "Kpomassè",
+        "departement": "ATLANTIQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0076,
+          6.3849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mutuelle Kolping",
+        "type": "Clinique",
+        "nature": "PRIVE",
+        "commune": "Kpomassè",
+        "departement": "ATLANTIQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9519,
+          6.3958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clinique Sharoom",
+        "type": "Clinique",
+        "nature": "PRIVE",
+        "commune": "Kpomassè",
+        "departement": "ATLANTIQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0225,
+          6.4281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ONG Vaiter",
+        "type": "Clinique",
+        "nature": "PRIVE",
+        "commune": "Sèmè-Podji",
+        "departement": "OUEME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5646,
+          6.4289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le relief",
+        "type": "Clinique",
+        "nature": "PRIVE",
+        "commune": "Kpomassè",
+        "departement": "ATLANTIQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0225,
+          6.428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dispensaire de Akpandji",
+        "type": "Dispensaire",
+        "nature": "PRIVE",
+        "commune": "Abomey-Calavi",
+        "departement": "ATLANTIQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2898,
+          6.3465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dispensaire de Acadjamè",
+        "type": "Dispensaire",
+        "nature": "PUBLIC",
+        "commune": "Abomey-Calavi",
+        "departement": "ATLANTIQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2599,
+          6.3699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dispensaire de Ganlononcôdji",
+        "type": "Dispensaire",
+        "nature": "PUBLIC",
+        "commune": "Ouidah",
+        "departement": "ATLANTIQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0634,
+          6.3528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dispensaire Djeffa",
+        "type": "Dispensaire",
+        "nature": "PUBLIC",
+        "commune": "Sèmè-Podji",
+        "departement": "OUEME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5667,
+          6.389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DI Agbato",
+        "type": "Dispensaire",
+        "nature": "PUBLIC",
+        "commune": "Cotonou",
+        "departement": "LITTORAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4382,
+          6.3892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dispensaire de Souza",
+        "type": "Dispensaire",
+        "nature": "PRIVE",
+        "commune": "Cotonou",
+        "departement": "LITTORAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3947,
+          6.3827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dispensaire de Maria-Gléta",
+        "type": "Dispensaire",
+        "nature": "PUBLIC",
+        "commune": "Abomey-Calavi",
+        "departement": "ATLANTIQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3013,
+          6.4174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dispensaire de Tohouè",
+        "type": "Dispensaire",
+        "nature": "PUBLIC",
+        "commune": "Sèmè-Podji",
+        "departement": "OUEME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.666,
+          6.4325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dispensaire Saint-Camille de Ségbanou",
+        "type": "Dispensaire",
+        "nature": "PRIVE",
+        "commune": "Ouidah",
+        "departement": "ATLANTIQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.152,
+          6.396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dispensaire Parakou",
+        "type": "Dispensaire",
+        "nature": "PUBLIC",
+        "commune": "Parakou",
+        "departement": "BORGOU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6167,
+          9.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dispensaire Abomey",
+        "type": "Dispensaire",
+        "nature": "PUBLIC",
+        "commune": "Abomey",
+        "departement": "ZOU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0829,
+          7.1852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dispensaire Natitingou",
+        "type": "Dispensaire",
+        "nature": "PUBLIC",
+        "commune": "Natitingou",
+        "departement": "ATACORA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3833,
+          10.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dispensaire Kandi",
+        "type": "Dispensaire",
+        "nature": "PUBLIC",
+        "commune": "Kandi",
+        "departement": "ALIBORI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9333,
+          11.1333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dispensaire Lokossa",
+        "type": "Dispensaire",
+        "nature": "PUBLIC",
+        "commune": "Lokossa",
+        "departement": "MONO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7139,
+          6.6375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dispensaire Djougou",
+        "type": "Dispensaire",
+        "nature": "PUBLIC",
+        "commune": "Djougou",
+        "departement": "DONGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6667,
+          9.7
+        ]
+      }
+    }
+  ]
+}
